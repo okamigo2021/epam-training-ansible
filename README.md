@@ -14,3 +14,6 @@
 │   └── wordpress  
 │       └── tasks  
 └── vars  
+
+# Install Playbook  
+Run ansible-playbook playbook.yml -i hosts  
