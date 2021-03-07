@@ -2,7 +2,7 @@
 
 # Directory structure
 
-/root/epam-training-ansible/
+/root/epam-training-ansible/  
 ├── files  
 ├── roles  
 │   ├── apache  
