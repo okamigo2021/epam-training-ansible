@@ -1,4 +1,4 @@
-# epam-training-ansible  
+# epam-training-ansible 
 
 # Directory structure
 
