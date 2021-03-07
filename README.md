@@ -17,3 +17,8 @@
 
 # Install Playbook  
 Run ansible-playbook playbook.yml -i hosts  
+
+# Generate ssh key:  
+Use private key for ansible SSH authentication  
+
+ssh-copy-id -i ~/ssh/id_rsa.pub user@hostname
