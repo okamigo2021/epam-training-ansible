@@ -1,3 +1,16 @@
 # epam-training-ansible
 
-Directory structure for created sites:
+# Directory structure:
+
+/root/wordpress/
+├── files
+├── roles
+│   ├── apache
+│   │   └── tasks
+│   ├── mysql
+│   │   └── tasks
+│   ├── php
+│   │   └── tasks
+│   └── wordpress
+│       └── tasks
+└── vars
