@@ -1,4 +1,6 @@
-# epam-training-ansible
+# epam-training-ansible  
+
+# Directory structure
 
 /root/epam-training-ansible/
 ├── files  
